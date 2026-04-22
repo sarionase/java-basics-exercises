@@ -1,0 +1,41 @@
+Ejercicio 1: Menu de numeros
+Realizar un menu en java que muestre el siguiente menu
+1. Mostrar número del 1 al 10
+2. Mostrar número del 10 al 1
+3. Ingresar un número y mostrarlo
+4. Salir
+
+Ejercicio 2 Menu de operaciones
+Realizar un menu en java que muestre el siguiente menu
+1. Sumar dos numeros
+2. Restar dos numeros
+3. Multiplicar dos numeros
+4. Salir
+
+Ejercicio 3 Menu de analisis
+Realizar un menu en java que muestre el siguiente menu
+1. Verificar si un número es par o impar
+2. Verificar si un número es positivo o negativo
+3. Mostrar los numeros desde 1 hastas un numero ingresado
+4. Salir
+
+Ejercicio 4 Menu de ciclos
+Realizar un menu en java que muestre el siguiente menu
+1. Mostrar la tabla de multiplicar de un número
+2. Mostrar la suma de numeros hasta un valor
+3. Mostrar los numeros pares hasta un valor
+4. Salir
+
+Ejercicio 5 Menu acumulativo
+Realizar un menu en java que muestre el siguiente menu
+1. Ingresar numeros hasta que ingrese 0 y calcular la suma
+2. Mostrar cantidad de numeros ingresados
+3. Mostrar numeros mayor y menor
+4. Salir
+
+Ejercicio 6 menu promedio
+Realizar un menu en java que muestre el siguiente menu
+1. Ingresar números y sumarlos
+2. Mostrar total acumulado
+3. Mostrar promedio
+4. Salir
